@@ -18,12 +18,12 @@
 ## 🗂️ Estrutura do Projeto
 
 ```
-cliente-crud/
-├── backend/
+Crud1/
+├── demo/
 │   └── src/
 │       └── main/
 │           ├── java/
-│           │   └── com.exemplo.cliente/
+│           │   └── com.example.demo/
 │           │       ├── ClienteCrudApplication.java
 │           │       ├── controller/
 │           │       │   └── ClienteController.java
