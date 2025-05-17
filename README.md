@@ -2,10 +2,8 @@
 
 # 🧑‍💻 Tutorial: CRUD de Clientes com Spring Boot + MySQL + Frontend em HTML
 
-## Requisitos
-
 * Java 17 ou superior
-* MySQL 5.7.36 (podemos usar o USBWebServer)
+* MySQL 5.7.36
 * VSCode com as extensões:
 
   * **Extension Pack for Java** (Microsoft)
@@ -315,10 +313,7 @@ cd backend
 
 Clique com botão direito em `index.html` > **"Open with Live Server"** ou abra diretamente no navegador.
 
-No live server vai geralmente fica neste endereço: http://127.0.0.1:5500/
-
----
-
+http://127.0.0.1:5500/
 Confira no banco de dados http://localhost/phpmyadmin
 
 ---
