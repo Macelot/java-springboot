@@ -328,10 +328,13 @@ curl -X POST http://localhost:8080/api/clientes \
 
 ---
 
-Caso tiver problemas
+## Caso tiver problemas
 mvn clean install
 
-Próximos passos. Personalizar o index.html com Bootstrap, Colocar mais funcionalidades (Delete, Update). Desenvolver filtros para buscar Clientes. Adicionar colunas no Cliente etc...
+---
+## Próximos passos. 
+
+Personalizar o index.html com Bootstrap, Colocar mais funcionalidades (Delete, Update). Desenvolver filtros para buscar Clientes. Adicionar colunas no Cliente etc...
 
 Exemplo com Delete e Update 
 ```html
