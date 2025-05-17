@@ -1,6 +1,6 @@
 ---
 
-# 🧑‍💻 Tutorial: CRUD de Clientes com Spring Boot + MySQL + Frontend em HTML
+# Tutorial: CRUD de Clientes com Spring Boot + MySQL + Frontend em HTML
 
 * Java 17 ou superior
 * MySQL 5.7.36
