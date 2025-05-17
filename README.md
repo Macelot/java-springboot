@@ -3,7 +3,7 @@
 ## Requisitos
 
 * Java 17 ou superior
-* MySQL 5.7.36
+* MySQL 5.7.36 (Vamos usar USBWebServer)
 * VSCode com as extensões:
 
   * **Extension Pack for Java** (Microsoft)
