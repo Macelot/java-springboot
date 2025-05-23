@@ -110,6 +110,11 @@ Crud1/
 			<artifactId>hibernate-core</artifactId>
 			<version>6.4.0.Final</version>
 		</dependency>
+		<dependency>
+		  <groupId>javax.persistence</groupId>
+		  <artifactId>javax.persistence-api</artifactId>
+		  <version>2.2</version>
+		</dependency>
 	</dependencies>
 
 	<build>
