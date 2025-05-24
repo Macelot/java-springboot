@@ -189,6 +189,7 @@ public interface ClienteRepository extends JpaRepository<Cliente, Long> {
 
 ## 🎯 Controlador: `ClienteController.java`
 
+```java
 package com.example.demo.controller;
 
 import com.example.demo.model.Cliente;
